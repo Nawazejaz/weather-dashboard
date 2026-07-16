@@ -3,7 +3,7 @@
 const CONFIG = {
     // OpenWeatherMap API Key
     // Get your free API key from: https://openweathermap.org/api
-    API_KEY: 'YOUR_API_KEY_HERE',
+    API_KEY: 4a3b4e794c2bb8ca69fe4f8834764737,
     
     // Base URL for OpenWeatherMap API
     BASE_URL: 'https://api.openweathermap.org/data/2.5',
